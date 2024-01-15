@@ -91,7 +91,7 @@ ____
 -----
 <h2>👀 Stars </h2>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moahmed15&theme=transpernt" alt="mystreak"/>
+<img width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=moahmed15&theme=transperancy" alt="mystreak"/>
 
 
 -------
