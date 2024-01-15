@@ -1,4 +1,4 @@
-
+<img src="hm.png" alt="cover" />
 <h2> Hi! 👋🏻 </h2>
 
 
